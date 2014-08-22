@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jiajiayouba.github.io/sitemap.xml 
